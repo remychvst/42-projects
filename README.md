@@ -75,9 +75,6 @@ Sorting algorithm project using two stacks and a limited set of operations.
 - Stack manipulation
 - Parsing
 
-## Status
-🚧 In progress
-
 🔗 Repository:
 👉 https://github.com/remychvst/push_swap
 
